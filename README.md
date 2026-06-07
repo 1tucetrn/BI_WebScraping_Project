@@ -46,7 +46,7 @@ Requests ve BeautifulSoup kütüphaneleri kullanılarak ürün bağlantıları �
 
 ## 3.1. İndirimli fiyat ve net fiyat karşılaştırması
 
-![Görsel 1](iş_zekası/images/1.png)
+![Görsel 1](iş_zekası/images/.png)
 
 Grafikte net fiyat ile indirimli fiyat arasında doğrusal ve güçlü bir ilişki görülmektedir.
 
@@ -60,7 +60,7 @@ Sistem, yüksek net fiyatlı ürünlerde beklenen satış fiyatını daha güven
 
 ## 3.2. Markalara göre ortalama fiyatlar
 
-![Görsel 2 - Markalara göre ortalama fiyatlar](images/markalara_gore_ortalama_fiyat.png)
+![Görsel 2 - Markalara göre ortalama fiyatlar](iş_zekası/images/markalara_gore_ortalama_fiyat.png)
 
 Markalar arasında ortalama fiyat farklılıkları belirgindir.
 
