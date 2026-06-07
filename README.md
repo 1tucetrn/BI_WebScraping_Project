@@ -46,7 +46,7 @@ Requests ve BeautifulSoup kütüphaneleri kullanılarak ürün bağlantıları �
 
 ## 3.1. İndirimli fiyat ve net fiyat karşılaştırması
 
-![Görsel 1](iş_zekası/images/.png)
+![İndirimli Fiyat ve Net Fiyat Karşılaştırması](iş_zekası/images/indirimli_fiyat.png)
 
 Grafikte net fiyat ile indirimli fiyat arasında doğrusal ve güçlü bir ilişki görülmektedir.
 
@@ -74,7 +74,7 @@ Kampanya kararlarında yüksek fiyatlı markalar ve ekonomik alternatifler ayrı
 
 ## 3.3. Markalara göre ortalama skor
 
-![Görsel 3 - Markalara göre ortalama skor](images/markalara_gore_skor.png)
+![Görsel 3 - Markalara göre ortalama skor](iş_zekası/images/markalara_gore_skor.png)
 
 La Sportiva ve Under Armour gibi markaların ortalama skorları daha yüksek görünmektedir.
 
@@ -88,7 +88,7 @@ Ancak fiyatla birlikte değerlendirildiğinde daha anlamlı kararlar üretir.
 
 ## 3.4. Korelasyon ısı haritası
 
-![Görsel 4 - Korelasyon ısı haritası](images/korelasyon_isi_haritasi.png)
+![Görsel 4 - Korelasyon ısı haritası](iş_zekası/images/korelasyon_isi_haritasi.png)
 
 Fiyat ile net fiyat arasında yaklaşık 0.93 düzeyinde güçlü pozitif korelasyon vardır.
 
@@ -102,7 +102,7 @@ KDS, modelinde skor destekleyici değişken olarak kullanılmalıdır.
 
 ## 3.5. Markalara göre ortalama indirim oranı
 
-![Görsel 5 - Markalara göre ortalama indirim oranı](images/markalara_gore_indirim_orani.png)
+![Görsel 5 - Markalara göre ortalama indirim oranı](iş_zekası/images/markalara_gore_indirim_orani.png)
 
 Under Armour, INOV8, Saucony, Ryka ve SKECHERS gibi markalarda ortalama indirim oranı daha yüksektir.
 
@@ -116,7 +116,7 @@ Düşük indirimli fakat yüksek fiyatlı markalar ise premium segment olarak de
 
 ## 3.6. İndirimli ve indirimsiz ürünlerin ortalama skorları
 
-![Görsel 6 - İndirimli ve indirimsiz ürünlerin ortalama skorları](images/indirimli_indirimsiz_skor.png)
+![Görsel 6 - İndirimli ve indirimsiz ürünlerin ortalama skorları](iş_zekası/images/indirimli_indirimsiz_skor.png)
 
 İndirimli ve indirimsiz ürünlerin ortalama skorları birbirine oldukça yakındır.
 
@@ -130,7 +130,7 @@ Skoru yüksek ve indirim oranı yüksek ürünler fiyat-performans açısından 
 
 ## 3.7. Yeni ürün için fiyat tahmini
 
-![Görsel 7 - Yeni ürün için fiyat tahmini](images/yeni_urun_fiyat_tahmini.png)
+![Görsel 7 - Yeni ürün için fiyat tahmini](iş_zekası/images/yeni_urun_fiyat_tahmini.png)
 
 Random Forest modeli, örnek bir Nike ürünü için 150 dolar net fiyat ve 4.5 skor bilgisine göre yaklaşık 141.10 dolar satış fiyatı tahmin etmiştir.
 
