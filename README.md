@@ -46,7 +46,7 @@ Requests ve BeautifulSoup kütüphaneleri kullanılarak ürün bağlantıları �
 
 ## 3.1. İndirimli fiyat ve net fiyat karşılaştırması
 
-![Görsel 1](./images/indirimli_fiyat.png)
+![Görsel 1](./images/1.png)
 
 Grafikte net fiyat ile indirimli fiyat arasında doğrusal ve güçlü bir ilişki görülmektedir.
 
